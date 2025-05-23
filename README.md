@@ -1,3 +1,5 @@
+# RESUME DETECTOR
+
 The Resume Detector project is a tool designed to help users automatically detect key information from resumes (CVs) like name, contact information, skills, work experience, and education. This tool uses Natural Language Processing (NLP) and Machine Learning (ML) techniques to extract relevant data from resumes in multiple formats (PDF, DOCX).
 
 Why Create This Project? As a part of our final-year project, we wanted to solve a common problem: manually extracting data from resumes for recruiters and HR professionals. The process is time-consuming and prone to errors. We decided to automate this using the latest advancements in NLP and ML, making resume parsing more efficient and accurate.
